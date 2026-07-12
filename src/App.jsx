@@ -4,6 +4,7 @@ import HeroSection from './pages/HeroSection';
 import AboutSection from './pages/AboutSection';
 import SkillsSection from './pages/SkillsSection';
 import ExperienceSection from './pages/ExperienceSection';
+import EducationSection from './pages/EducationSection';
 import ProjectsSection from './pages/ProjectsSection';
 import ContactSection from './pages/ContactSection';
 
@@ -31,6 +32,7 @@ function App() {
       <HeroSection />
       <AboutSection />
       <SkillsSection />
+      <EducationSection />
       <ExperienceSection />
       <ProjectsSection />
       <ContactSection />
